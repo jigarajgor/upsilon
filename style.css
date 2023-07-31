@@ -1,0 +1,282 @@
+body {
+  text-align: center;
+}
+
+.mainimage {
+  padding: 15px;
+  width: 100%;
+  height: 100%;
+}
+
+.logo {
+  position: absolute;
+}
+
+.table {
+  position: relative;
+  font-size: 30px;
+  border-spacing: 20px;
+}
+
+.container {
+  border: solid 2px black;
+  display: flex;
+  flex-direction: row;
+}
+
+.line1 {
+  font-size: 60px;
+}
+
+.benefits {
+  margin: auto;
+  display: flex;
+}
+
+.item {
+  text-align: center;
+  margin: auto;
+}
+
+.benefitimage {
+  float: left;
+}
+
+.phead {
+  color: black;
+  font-size: 22px;
+  font-family: Bitter;
+  font-weight: 600;
+}
+
+.pitem {
+  width: 100%;
+  color: black;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  color: black;
+  font-size: 40px;
+  font-family: Bitter;
+  font-weight: 400;
+  justify-content: space-between;
+}
+
+.pbestselling {
+  margin-top: 80px;
+  color: black;
+  font-size: 40px;
+  font-family: Bitter;
+  font-weight: 400;
+}
+
+.products {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 200px;
+}
+
+.pname {
+  color: black;
+  font-size: 26px;
+  font-family: Bitter;
+  font-weight: 600;
+  margin-top: 0px;
+}
+
+.pprice {
+  color: black;
+  font-size: 18px;
+  font-family: Poppins;
+  font-weight: 600;
+}
+.linecut {
+  color: #ff2d2d;
+  font-size: 18px;
+  font-family: Poppins;
+  font-weight: 400;
+  text-decoration: line-through;
+}
+
+.star {
+  color: yellow;
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+.btn {
+  color: white;
+  font-size: 21px;
+  font-family: Poppins;
+  font-weight: 700;
+  background: black;
+}
+
+.que {
+  color: black;
+  font-size: 40px;
+  font-family: Bitter;
+  font-weight: 400;
+}
+
+.para1 {
+  color: black;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 600;
+}
+
+.para2 {
+  color: black;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+}
+
+.toni {
+  position: relative;
+  top: 8px;
+  left: 16px;
+  color: black;
+}
+
+.ads {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100;
+}
+
+.ad2 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 22px;
+  justify-content: space-between;
+}
+
+.ecoms {
+  background: #e6f0f2;
+  padding-bottom: 10px;
+}
+
+.ecom {
+  display: flex;
+  justify-content: space-around;
+}
+
+.bigbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.box1 {
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+
+.blog {
+  background: #e6f0f2;
+  width: 100%;
+  height: 100%;
+}
+
+.blogh {
+  color: black;
+  font-size: 40px;
+  font-family: Bitter;
+  font-weight: 400;
+}
+
+.blogc {
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 400;
+  margin: auto 30px auto 30px;
+}
+
+.box2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.images5 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.footer {
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: space-around;
+  font-size: 2rem;
+  font-family: Poppins;
+  font-weight: 700;
+  padding-top: 200px;
+}
+
+.link {
+  color: white;
+}
+
+.one {
+  display: flex;
+  flex-direction: column;
+  font-size: 2rem;
+}
+
+.two {
+  display: flex;
+  flex-direction: column;
+}
+
+.three {
+  display: flex;
+  flex-direction: column;
+}
+
+.four {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  font-size: 50px;
+}
+
+.btn2 {
+  height: 80px;
+  width: 300px;
+  color: white;
+  background: #27808e;
+  font-size: 50px;
+}
+
+.last {
+  background: black;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  font-size: 2rem;
+}
+
+.designed {
+  position: relative;
+  left: 1340px;
+}
+
+.zgc {
+  position: relative;
+  right: 30px;
+  height: 100px;
+  width: 130px;
+}
